@@ -45,13 +45,14 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
    - Android Studio 
 
 2. 개발언어 
-   - Java
+   - Java (Android Studoi의 개발언어인 JAVA, Kotlin중 JAVA를 사용하여 개발)
 
 3. 사용 DBMS
-   - MySQL, phpMyAdmin
+   - MySQL
+   - phpMyAdmin
 
 4. 기타 개발도구, 서버  
-   - PHP
+   - PHP (MySQL. DB에 데이터 추가, 수정, 삭제 등의 작업 수행)
    - Amazon AWS EC2
 <br>
 
