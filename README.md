@@ -20,8 +20,24 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
 ### 목표 사용자 
 
 ### 개발 기술
+1. 안드로이드 앱 구현 기술
+   - Android Studio 
+   - 식단표, 일정 관리, 데이터 베이스 등 사용자 중심의 UI/UX를 위한 안드로이드 기반 애플리케이션 구현 기술
+
+2. 이미지 인식 및 자연어 처리 기술
+   - OCR
+   - NaverClova를 통해 인바디 결과 용지의 Text를 추출하는 기술
+
+3. 데이터 시각화 기술
+   - 기술 통계 기반 인바디 데이터 분석 및 변화를 그래프를 통해 데이터 시각화 하는 기술      
+
 
 ### 개발 도구 및 프로그램
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-483D8B?style=flat-square&logo=JAVA&logoColor=white"/> 
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
+
 
 ### 개발 산출물 및 실행 예시 화면 
   * 로그인, 회원가입
@@ -36,3 +52,7 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
   * 메인, 달력(식단표), 마이페이지 
 ![image](https://user-images.githubusercontent.com/89902489/199336364-d35eb8ab-2295-4add-a838-e63cd3eeac89.png)
 
+
+
+
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonsumin1)](https://github.com/jeonsumin1/github-readme-stats)
