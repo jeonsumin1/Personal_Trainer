@@ -28,7 +28,7 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
 <br>
 
 ### 👪 팀원 소개 
-<img src="https://user-images.githubusercontent.com/89902489/199382170-3aa1017e-6232-45b6-aa1d-f1b584604a3e.png" width="700" height="150">
+<img src="https://user-images.githubusercontent.com/89902489/199382170-3aa1017e-6232-45b6-aa1d-f1b584604a3e.png" >  <!-- width="700" height="150"  -->
 
 <br>
 
