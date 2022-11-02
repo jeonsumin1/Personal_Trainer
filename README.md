@@ -45,7 +45,7 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
    - Android Studio 
 
 2. 개발언어 
-   - Java (Android Studoi의 개발언어인 JAVA, Kotlin중 JAVA를 사용하여 개발)
+   - Java (Android Studio의 개발언어인 JAVA, Kotlin중 JAVA를 사용하여 개발)
 
 3. 사용 DBMS
    - MySQL
