@@ -1,5 +1,5 @@
 <div align=center>
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=C9D6FF&fontColor=FFFFFF&height=250&text=Portfolio&fontSize=90&animation=fadeIn&fontAlignY=38&desc=JeonSuMin%202005970&descAlignY=51&descAlign=62" /></div>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=C9D6FF&fontColor=FFFFFF&height=280&text=Portfolio&fontSize=90&animation=fadeIn&fontAlignY=38&desc=JeonSuMin%202005970&descAlignY=51&descAlign=62" /></div>
 
 # Personal_Trainer
 
@@ -122,7 +122,12 @@ https://user-images.githubusercontent.com/89902489/199400731-8667ad89-c3cc-400c-
    - php 파일을 통해 안드로이드와 데이터 베이스를 연결하여 사용자가 어플리케이션을 사용하여 데이터를 입력했을 때 해당 데이터가 데이터 베이스에 저장될 수 있도록 구현
    - 회원가입시 비밀번호 암호화하여 저장(해시 사용, password_hash) 
    - 안드로이드 스튜디오 상의 데이터 전달 코드 구현
+<br>
+<br>
 
+
+## * 인적 사항
+![image](https://user-images.githubusercontent.com/89902489/199421140-79428ab0-60ac-48cb-9c82-6431e4d4a77e.png)
 
 
 
