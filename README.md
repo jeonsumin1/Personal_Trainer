@@ -29,11 +29,8 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
 <br>
 
 ### 👪 팀원 소개 
-<img src="https://user-images.githubusercontent.com/89902489/199382170-3aa1017e-6232-45b6-aa1d-f1b584604a3e.png" >  <!-- width="700" height="150"  -->
-
+![image](https://user-images.githubusercontent.com/89902489/199479035-ba600662-dde4-4d69-a15e-213af4ad9196.png)
 <br>
-
-
 
 ### ✔️ 목표 사용자 
 ![image](https://user-images.githubusercontent.com/89902489/199339555-de108da1-0c73-46f8-8faf-12e851323b08.png)
@@ -129,5 +126,7 @@ https://user-images.githubusercontent.com/89902489/199400731-8667ad89-c3cc-400c-
 ## * 인적 사항
 ![image](https://user-images.githubusercontent.com/89902489/199421140-79428ab0-60ac-48cb-9c82-6431e4d4a77e.png)
 
+## * 이수 과목
+![image](https://user-images.githubusercontent.com/89902489/199479733-2c5e6cb8-9efb-45e0-9ad2-0314e68f7424.png)
 
 
