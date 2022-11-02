@@ -13,6 +13,13 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
 ![image](https://user-images.githubusercontent.com/89902489/199335382-db12c2e4-9574-4911-9d25-3966071f1c84.png)
 <br>
 
+###
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-483D8B?style=flat&logo=JAVA&logoColor=white"/> 
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpMyAdmin&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flate&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/>
+
+
 ### 📌 작품 개념 소개 [비즈니스 모델 캔버스]
 ![image](https://user-images.githubusercontent.com/89902489/199335848-07c9114e-a181-497e-95ac-c3dfb3176604.png)
 <br>
@@ -39,10 +46,6 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
 <br>
 
 ### 🛠 개발 도구 및 프로그램
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-483D8B?style=flat-square&logo=JAVA&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
 1. 운영체제
    - Android Studio 
 
