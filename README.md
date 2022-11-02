@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=C9D6FF&fontColor=FFFFFF&height=270&section=header&text=Portfolio&fontSize=90&animation=fadeIn&fontAlignY=38&desc=JeonSuMin%202005970&descAlignY=51&descAlign=62)
-<br>
+<div align=center>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=C9D6FF&fontColor=FFFFFF&height=250&text=Portfolio&fontSize=90&animation=fadeIn&fontAlignY=38&desc=JeonSuMin%202005970&descAlignY=51&descAlign=62" /></div>
 
 # Personal_Trainer
 
@@ -9,6 +9,7 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
 
 ### 	📚 Tech Stack	📚
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-483D8B?style=flat&logo=JAVA&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=MySQL&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpMyAdmin&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flate&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/>
@@ -91,6 +92,12 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
 ![image](https://user-images.githubusercontent.com/89902489/199336364-d35eb8ab-2295-4add-a838-e63cd3eeac89.png)
 <br>
 
+
+https://user-images.githubusercontent.com/89902489/199400731-8667ad89-c3cc-400c-8136-a9c204632480.mp4
+
+
+
+
 ### 🙋 역할 (개발 참여 부분)
 1. Design 
    - 피그마를 통해 화면설계 및  애플리케이션 UI/UX 디자인 
@@ -117,9 +124,5 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
    - 안드로이드 스튜디오 상의 데이터 전달 코드 구현
 
 
-
-
-
-https://user-images.githubusercontent.com/89902489/199400731-8667ad89-c3cc-400c-8136-a9c204632480.mp4
 
 
