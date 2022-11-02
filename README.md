@@ -71,9 +71,11 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
 
 ### 📘 ERD - 엔티티 관계도 
 ![image](https://user-images.githubusercontent.com/89902489/199372086-8b2c00f4-2333-45a2-93a3-d2c1c855472c.png)
+<br>
 
 ### 💭 기능 흐름도 
 ![image](https://user-images.githubusercontent.com/89902489/199372118-844a6829-cdf9-4e9e-8876-e509b8308b98.png)
+<br>
 
 ### 💡 개발 산출물 및 실행 예시 화면 
   * 로그인, 회원가입
@@ -92,6 +94,7 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
 
 https://user-images.githubusercontent.com/89902489/199400731-8667ad89-c3cc-400c-8136-a9c204632480.mp4
 
+<br>
 
 
 
@@ -125,8 +128,12 @@ https://user-images.githubusercontent.com/89902489/199400731-8667ad89-c3cc-400c-
 
 ## * 인적 사항
 ![image](https://user-images.githubusercontent.com/89902489/199421140-79428ab0-60ac-48cb-9c82-6431e4d4a77e.png)
+<br>
 
 ## * 이수 과목
 ![image](https://user-images.githubusercontent.com/89902489/199479733-2c5e6cb8-9efb-45e0-9ad2-0314e68f7424.png)
+<br>
 
 
+## GitHub link
+https://github.com/jeonsumin1/Personal_Trainer.git
