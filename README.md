@@ -1,6 +1,8 @@
-![image](https://user-images.githubusercontent.com/89902489/199333563-1c2b659e-ea87-4593-9ed4-5a973cc436e5.png)
-# Personal_Trainer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Personal%20Trainer&fontSize=80&animation=fadeIn&fontAlignY=38" />
 <br>
+
+
+# Personal_Trainer
 
 ## 🖥️ 프로젝트 소개 
 OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 식단표 제공 서비스  
@@ -56,6 +58,14 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
    - Amazon AWS EC2
 <br>
 
+![image](https://user-images.githubusercontent.com/89902489/199371651-b4402fe2-43b8-4e66-bfa2-919d62a7f1cc.png)
+<br>
+
+### ERD - 엔티티 관계도 
+![image](https://user-images.githubusercontent.com/89902489/199372086-8b2c00f4-2333-45a2-93a3-d2c1c855472c.png)
+
+### 기능 흐름도 
+![image](https://user-images.githubusercontent.com/89902489/199372118-844a6829-cdf9-4e9e-8876-e509b8308b98.png)
 
 ### 개발 산출물 및 실행 예시 화면 
   * 로그인, 회원가입
@@ -70,6 +80,31 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
   * 메인, 달력(식단표), 마이페이지 
 ![image](https://user-images.githubusercontent.com/89902489/199336364-d35eb8ab-2295-4add-a838-e63cd3eeac89.png)
 <br>
+
+### 역할 (개발 참여 부분)
+1. Design 
+   - 피그마를 통해 화면설계 및  애플리케이션 UI/UX 디자인 
+
+2. 앱의 DB 구축
+
+3. 문서 작성 
+   - 보고서, ppt, 회의록 작성
+
+4. 자료 조사 
+   - 공공 데이터 식품 정보
+
+5. Front-End 
+   - 애플리케이션의 UI/UX 구현, 달력 페이지의 달력 구현 및 날짜 클릭 시 해당 날짜 화면에 띄우기
+   - 해당 날짜의 식단표와 메모를 확인할 수 있는 페이지,
+   - 하단바 메뉴 구현, 로그인 시 로그인 한 사용자 ID 띄우기 
+   - 달력의 일정 관리 페이지에서 phone의 갤러리와 연결하여 사진 가져오는 기능 구현
+ 
+6. Back-End :  
+   - 아마존 클라우드 서버 연동 AWS EC2 서버 이용
+   - EC2 서버에 phpMyAdmin 연결
+   - php 파일을 통해 안드로이드와 데이터 베이스를 연결하여 사용자가 어플리케이션을 사용하여 데이터를 입력했을 때 해당 데이터가 데이터 베이스에 저장될 수 있도록 구현
+   - 회원가입시 비밀번호 암호화하여 저장(해시 사용, password_hash) 
+   - 안드로이드 스튜디오 상의 데이터 전달 코드 구현
 
 
 
