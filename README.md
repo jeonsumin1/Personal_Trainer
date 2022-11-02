@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F0F8FF&height=300&section=header&text=Personal%20Trainer&fontSize=80&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D9E3FF&height=190&section=header&text=Portfolio&fontSize=70" />
 <br>
-
 
 # Personal_Trainer
 
@@ -19,13 +18,18 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpMyAdmin&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flate&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/>
 <br>
+<br>
 
 ### 📌 작품 개념 소개 [비즈니스 모델 캔버스]
 ![image](https://user-images.githubusercontent.com/89902489/199335848-07c9114e-a181-497e-95ac-c3dfb3176604.png)
 <br>
 
 ### 👪 팀원 소개 
+<img src="https://user-images.githubusercontent.com/89902489/199382170-3aa1017e-6232-45b6-aa1d-f1b584604a3e.png" width="700" height="150">
+
 <br>
+
+
 
 ### 📱 목표 사용자 
 ![image](https://user-images.githubusercontent.com/89902489/199339555-de108da1-0c73-46f8-8faf-12e851323b08.png)
@@ -64,7 +68,7 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
 ![image](https://user-images.githubusercontent.com/89902489/199371651-b4402fe2-43b8-4e66-bfa2-919d62a7f1cc.png)
 <br>
 
-### ERD - 엔티티 관계도 
+### 📘 ERD - 엔티티 관계도 
 ![image](https://user-images.githubusercontent.com/89902489/199372086-8b2c00f4-2333-45a2-93a3-d2c1c855472c.png)
 
 ### 기능 흐름도 
