@@ -1,15 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D9E3FF&height=190&section=header&text=Portfolio&fontSize=70" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=C9D6FF&fontColor=FFFFFF&height=270&section=header&text=Portfolio&fontSize=90&animation=fadeIn&fontAlignY=38&desc=JeonSuMin%202005970&descAlignY=51&descAlign=62)
 <br>
 
 # Personal_Trainer
 
 ## 🖥️ 프로젝트 소개 
 OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 식단표 제공 서비스  
-<br>
-
-## 🕰️ 프로젝트 개발 기간
-* 2022.04.01 ~ 2022.10.31
-![image](https://user-images.githubusercontent.com/89902489/199335382-db12c2e4-9574-4911-9d25-3966071f1c84.png)
 <br>
 
 ### 	📚 Tech Stack	📚
@@ -19,6 +14,14 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flate&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/>
 <br>
 <br>
+
+
+## 🕛 프로젝트 개발 기간
+* 2022.04.01 ~ 2022.10.31
+![image](https://user-images.githubusercontent.com/89902489/199335382-db12c2e4-9574-4911-9d25-3966071f1c84.png)
+<br>
+
+
 
 ### 📌 작품 개념 소개 [비즈니스 모델 캔버스]
 ![image](https://user-images.githubusercontent.com/89902489/199335848-07c9114e-a181-497e-95ac-c3dfb3176604.png)
@@ -31,7 +34,7 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
 
 
 
-### 📱 목표 사용자 
+### ✔️ 목표 사용자 
 ![image](https://user-images.githubusercontent.com/89902489/199339555-de108da1-0c73-46f8-8faf-12e851323b08.png)
 <br>
 
@@ -71,10 +74,10 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
 ### 📘 ERD - 엔티티 관계도 
 ![image](https://user-images.githubusercontent.com/89902489/199372086-8b2c00f4-2333-45a2-93a3-d2c1c855472c.png)
 
-### 기능 흐름도 
+### 💭 기능 흐름도 
 ![image](https://user-images.githubusercontent.com/89902489/199372118-844a6829-cdf9-4e9e-8876-e509b8308b98.png)
 
-### 개발 산출물 및 실행 예시 화면 
+### 💡 개발 산출물 및 실행 예시 화면 
   * 로그인, 회원가입
 ![image](https://user-images.githubusercontent.com/89902489/199336124-7634b02f-dec2-49e8-a069-8fab29b36adf.png)
 
@@ -88,7 +91,7 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
 ![image](https://user-images.githubusercontent.com/89902489/199336364-d35eb8ab-2295-4add-a838-e63cd3eeac89.png)
 <br>
 
-### 역할 (개발 참여 부분)
+### 🙋 역할 (개발 참여 부분)
 1. Design 
    - 피그마를 통해 화면설계 및  애플리케이션 UI/UX 디자인 
 
@@ -112,7 +115,3 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
    - php 파일을 통해 안드로이드와 데이터 베이스를 연결하여 사용자가 어플리케이션을 사용하여 데이터를 입력했을 때 해당 데이터가 데이터 베이스에 저장될 수 있도록 구현
    - 회원가입시 비밀번호 암호화하여 저장(해시 사용, password_hash) 
    - 안드로이드 스튜디오 상의 데이터 전달 코드 구현
-
-
-
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonsumin1)](https://github.com/jeonsumin1/github-readme-stats)
