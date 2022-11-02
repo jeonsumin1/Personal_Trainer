@@ -29,7 +29,7 @@ OCR 기반 인바디 결과용지(이미지) 인식에 따른 개인 맞춤형 �
 <br>
 
 ### 👪 팀원 소개 
-![image](https://user-images.githubusercontent.com/89902489/199479035-ba600662-dde4-4d69-a15e-213af4ad9196.png)
+![image](https://user-images.githubusercontent.com/89902489/199480098-c3386f4f-4c72-483a-8ac8-5f3c88d6b502.png)
 <br>
 
 ### ✔️ 목표 사용자 
